@@ -1,0 +1,7 @@
+.vs
+
+*.wad
+
+linuxdoom-1.10/linux
+sndserv/linux
+doxygen_out
